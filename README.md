@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="figure/logo.png" alt="StoNet Logo" width="100%">
+  <img src="figure/logo.jpg" alt="StoNet Logo" width="100%">
 </p>
 
 # StoNet: A Leaf Stoma and Pore Collaborative Segmentation Network Based on Structure Awareness and Pairwise Prediction
